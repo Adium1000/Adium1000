@@ -1,4 +1,4 @@
-# Wellcome to my profile! 
+# Wellcome to my profile! 💜
 
 Enthusiast of electronics and programming 🎲
 
