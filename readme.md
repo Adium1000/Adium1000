@@ -34,6 +34,12 @@ Enthusiast of electronics and programming 🎲
 ![Static Badge](https://img.shields.io/badge/Desktop%20Clock-blue?style=flat&logo=clock&logoColor=%23FFFFFF&logoSize=3000&label=Decorations&labelColor=000000&color=%23b3b3b3)
 ![Static Badge](https://img.shields.io/badge/Mouse%20pad%20with%20curved%20lines-blue?style=flat&logo=clock&logoColor=%23FFFFFF&logoSize=3000&label=Decorations&labelColor=000000&color=%23b3b3b3)
 
+### Other Daily use gear
+![Static Badge](https://img.shields.io/badge/Phone%20A56%20256GB-blue?style=flat&logo=samsung&logoColor=%23FFFFFF&logoSize=3000&label=Samsung&labelColor=000000&color=%23212121)
+![Static Badge](https://img.shields.io/badge/Buds%203-blue?style=flat&logo=samsung&logoColor=%23FFFFFF&logoSize=3000&label=Samsung&labelColor=000000&color=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Watch%206-blue?style=flat&logo=samsung&logoColor=%23FFFFFF&logoSize=3000&label=Samsung&labelColor=000000&color=%23000000)
+
+
 ### Car
 ![Static Badge](https://img.shields.io/badge/GOLF%20IV-blue?style=flat&logo=volkswagen&logoColor=%23FFFFFF&logoSize=3000&label=Volkswagen&labelColor=%23000000&color=%23c7c7c7)
 
