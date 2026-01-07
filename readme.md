@@ -15,7 +15,7 @@ Enthusiast of electronics and programming 🎲
 ![Static Badge](https://img.shields.io/badge/16GB%20-blue?style=flat&logo=%3F&logoColor=%23FFFFFF&logoSize=3000&label=RAM&labelColor=000000&color=%239d00ff)
 ![Static Badge](https://img.shields.io/badge/512GB%20-blue?style=flat&logo=%3F&logoColor=%23FFFFFF&logoSize=3000&label=SSD&labelColor=000000&color=%230ee820)
 ![Static Badge](https://img.shields.io/badge/GTX%201650%20-blue?style=flat&logo=nvidia&logoColor=%23FFFFFF&logoSize=3000&label=nVidia&labelColor=000000&color=%230ee820)
-![Static Badge](https://img.shields.io/badge/I5-11320H%20-blue?style=flat&logo=intel&logoColor=%23FFFFFF&logoSize=3000&label=INTEL%20&labelColor=000000&color=%230066ff)
+![Static Badge](https://img.shields.io/badge/I5_11320H%20-blue?style=flat&logo=intel&logoColor=%23FFFFFF&logoSize=3000&label=INTEL%20&labelColor=000000&color=%230066ff)
 ### PC
 
 [![Static Badge](https://img.shields.io/badge/Ubuntu-blue?style=flat&logo=ubuntu&logoColor=%23ffffff&logoSize=3000&label=OS&labelColor=%23000000&color=%23E95420)](https://ubuntu.com/)
@@ -23,7 +23,7 @@ Enthusiast of electronics and programming 🎲
 ![Static Badge](https://img.shields.io/badge/256GB%20-blue?style=flat&logo=%3F&logoColor=%23FFFFFF&logoSize=3000&label=SSD&labelColor=000000&color=%230ee820)
 ![Static Badge](https://img.shields.io/badge/GTX%20950%20-blue?style=flat&logo=nvidia&logoColor=%23FFFFFF&logoSize=3000&label=nVidia&labelColor=000000&color=%230ee820)
 ![Static Badge](https://img.shields.io/badge/1TB%20-blue?style=flat&logoColor=%23FFFFFF&logoSize=3000&label=HDD&labelColor=000000&color=%23b3b3b3)
-![Static Badge](https://img.shields.io/badge/I5-6500%20-blue?style=flat&logo=intel&logoColor=%23FFFFFF&logoSize=3000&label=INTEL%20&labelColor=000000&color=%230066ff)
+![Static Badge](https://img.shields.io/badge/I5_6500%20-blue?style=flat&logo=intel&logoColor=%23FFFFFF&logoSize=3000&label=INTEL%20&labelColor=000000&color=%230066ff)
 
 ### My Gear
 ![Static Badge](https://img.shields.io/badge/Redragon%20Vishnu%20-blue?style=flat&logo=redragon&logoColor=%23FFFFFF&logoSize=3000&label=Keyboard&labelColor=000000&color=%23E60012)
