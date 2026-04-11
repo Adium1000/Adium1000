@@ -16,7 +16,7 @@ Enthusiast of electronics and programming 🎲
 ![Static Badge](https://img.shields.io/badge/512GB%20-blue?style=flat&logo=%3F&logoColor=%23FFFFFF&logoSize=3000&label=SSD&labelColor=000000&color=%230ee820)
 ![Static Badge](https://img.shields.io/badge/GTX%201650%20-blue?style=flat&logo=nvidia&logoColor=%23FFFFFF&logoSize=3000&label=nVidia&labelColor=000000&color=%230ee820)
 ![Static Badge](https://img.shields.io/badge/I5_11320H%20-blue?style=flat&logo=intel&logoColor=%23FFFFFF&logoSize=3000&label=INTEL%20&labelColor=000000&color=%230066ff)
-### PC
+### NAS
 
 [![Static Badge](https://img.shields.io/badge/Ubuntu-blue?style=flat&logo=ubuntu&logoColor=%23ffffff&logoSize=3000&label=OS&labelColor=%23000000&color=%23E95420)](https://ubuntu.com/)
 ![Static Badge](https://img.shields.io/badge/16GB%20-blue?style=flat&logo=%3F&logoColor=%23FFFFFF&logoSize=3000&label=RAM&labelColor=000000&color=%239d00ff)
