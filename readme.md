@@ -38,7 +38,7 @@ Enthusiast of electronics and programming 🎲
 ### Socials (Click to redirect)
 [![Static Badge](https://img.shields.io/badge/Adrian-blue?style=flat&logo=steam&logoColor=%23ffffff&logoSize=3000&label=Steam&labelColor=%23000000&color=%234287f5)](https://store.steampowered.com/)
 [![Static Badge](https://img.shields.io/badge/Adrian-blue?style=flat&logo=Revolut&logoColor=%23FFFFFF&logoSize=3000&label=Revolut&labelColor=%23000000&color=%23d4ff00)](https://revolut.me/adrianu8cv)
-[![Static Badge](https://img.shields.io/badge/Adrian-blue?style=flat&logo=instagram&logoColor=%23FFFFFF&logoSize=3000&label=Insta&labelColor=000000&color=%23FF0069)](https://www.instagram.com/adi.tomoiaga1000/)
+
 
 ## HackaTime Dashboard (Few)
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=24376&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
