@@ -8,6 +8,8 @@ Enthusiast of electronics and programming 🎲
 ![Static Badge](https://img.shields.io/badge/Arduino-Blue?style=flat&logo=arduino&logoColor=%23FFFFFF&logoSize=3000&label=Board&labelColor=000000&color=%2300878F)
 ![Static Badge](https://img.shields.io/badge/RaspberryPi-Blue?style=flat&logo=raspberrypi&logoColor=%23FFFFFF&logoSize=3000&label=Board&labelColor=000000&color=%23A22846)
 
+and working on small html projects :3
+
 # My OS(s) and Tools
 ### Laptop 
 ![Static Badge](https://img.shields.io/badge/Ideapad%20Gaming%203%20-blue?style=flat&logo=lenovo&logoColor=%23FFFFFF&logoSize=3000&label=Laptop&labelColor=000000&color=%23E2231A)
